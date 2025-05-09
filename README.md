@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Khaidar 👋
 
-<!--
-**khaidaram/khaidaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer with 3+ years of experience working with global enterprise projects.  
+🎯 Specialized in Angular, SAP Spartacus, SCSS, and responsive UI development.  
+🌍 Passionate about building scalable web apps and contributing to high-impact systems.  
+💼 Currently working at a global consulting firm serving multinational E-Commerce brands.
+👀 I’m interested in Full Stack Development and continous learning.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+`Angular` | `TypeScript` | `SCSS` | `SAP Spartacus` | `Spring Boot` | `Laravel`  
+`JIRA` | `Jenkins` | `Storybook` | `MySQL` | `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Featured Skills:
+Frontend UI · Enterprise E-Commerce · Agile Team Collaboration · Scalable Component Architecture
+
+🔗 Let's connect:
+- 🌐 Portfolio (coming soon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/khaidar-wafiq)
+- 📫 Email: khaidarwafiq@gmail.com
+
+_"Delivering solutions that matter, one commit at a time."_
