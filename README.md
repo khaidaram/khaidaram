@@ -17,5 +17,3 @@ Frontend UI · Enterprise E-Commerce · Agile Team Collaboration · Scalable Com
 - 🌐 Portfolio (coming soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/khaidar-wafiq)
 - 📫 Email: khaidarwafiq@gmail.com
-
-_"Delivering solutions that matter, one commit at a time."_
