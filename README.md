@@ -14,6 +14,6 @@
 Frontend UI · Enterprise E-Commerce · Agile Team Collaboration · Scalable Component Architecture
 
 🔗 Let's connect:
-- 🌐 [Portofolio] https://khaidarwafiq.vercel.app
+- 🌐 [Portofolio] (https://khaidarwafiq.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/khaidar-wafiq)
-- 📫 [Email] khaidarwafiq@gmail.com
+- 📫 [Email] (khaidarwafiq@gmail.com)
